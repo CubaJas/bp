@@ -1,5 +1,5 @@
 {
-  "name": "bitrix-project",
+  "name": "bp",
   "version": "0.0.1",
   "description": "BitrixCMS-based project's initial structure",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/regiomedia/bitrix-project.git"
+    "url": "git+https://github.com/CubaJas/bp.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/regiomedia/bitrix-project/issues"
+    "url": "https://github.com/CubaJas/bp/issues"
   },
-  "homepage": "https://github.com/regiomedia/bitrix-project#readme",
+  "homepage": "https://github.com/CubaJas/bp/#readme",
   "devDependencies": {
     "@symfony/webpack-encore": "^0.19.0",
     "autoprefixer": "^8.2.0",
