@@ -3,7 +3,7 @@
   "parserOptions": {
     "parser": "babel-eslint"
   },
-  "extends": "",
+  "extends": "airbnb-base",
   "plugins": ["vue"],
   "rules": {
     "vue/jsx-uses-vars": 2,
