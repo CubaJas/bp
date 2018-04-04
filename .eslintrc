@@ -1,0 +1,16 @@
+{
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "parser": "babel-eslint"
+  },
+  "extends": "",
+  "plugins": ["vue"],
+  "rules": {
+    "vue/jsx-uses-vars": 2,
+    "no-param-reassign": 0,
+    "max-len": 0
+   },
+  "env": {
+    "browser": "true"
+  }
+}
