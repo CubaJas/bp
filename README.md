@@ -146,7 +146,7 @@ npm run encore -- production   # запустить сборку для прод
     <div class="demo-app">
         {{ hello }}
 
-        {{ initial.test }}
+        {{ test }}
 
     </div>
 </template>
@@ -158,7 +158,7 @@ npm run encore -- production   # запустить сборку для прод
           hello: 'World',
         };
       },
-      props: ['initial'],
+      props: {test: "data"},
     };
 </script>
 ```
