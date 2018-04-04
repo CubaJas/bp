@@ -118,7 +118,7 @@ npm run encore -- production   # запустить сборку для прод
 
 ### Технологии
 
-- Stylus
+- Stylus ([англ](https://github.com/stylus/stylus))
 - "Современный" Javascript ([рус](https://learn.javascript.ru/es-modern)/[англ](https://github.com/metagrover/ES6-for-humans))
     - [DOM-based Router](https://github.com/roots/sage/blob/master/resources/assets/scripts/util/Router.js)
     - [Vue JS](https://vuejs.org/)
